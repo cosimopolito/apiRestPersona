@@ -1,0 +1,9 @@
+it\prova\personajaxrs\model\Persona.class
+it\prova\personajaxrs\service\PerosnaService.class
+it\prova\personajaxrs\service\PersonaServiceImpl.class
+it\prova\personajaxrs\dao\PersonaDAO.class
+it\prova\personajaxrs\dao\IBaseDAO.class
+it\prova\personajaxrs\web\listener\LocalEntityManagerFactoryListener.class
+it\prova\personajaxrs\service\MyServiceFactory.class
+it\prova\personajaxrs\web\rest\resources\PersonaResource.class
+it\prova\personajaxrs\dao\PersonaDAOImpl.class
